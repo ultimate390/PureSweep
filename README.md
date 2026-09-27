@@ -175,8 +175,6 @@ python main.py
 
 **Сделал [Ultimate390](https://github.com/ultimate390)**
 
-*Нашёл баг или есть идея? Открывай [Issue](../../issues) — прочитаю всё.*
-
 © Ultimate390. Все права защищены.
 
 </div>
